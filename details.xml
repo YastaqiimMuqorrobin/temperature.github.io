@@ -1,0 +1,33 @@
+<Devices-Detail-Response xmlns="http://www.proges.com/schema/plugandtrack" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<PollCount>46682</PollCount>
+<DevicesConnected>1</DevicesConnected>
+<LoopTime>1.023</LoopTime>
+<DevicesConnectedChannel1>0</DevicesConnectedChannel1>
+<DevicesConnectedChannel2>1</DevicesConnectedChannel2>
+<DevicesConnectedChannel3>0</DevicesConnectedChannel3>
+<DataErrorsChannel1>0</DataErrorsChannel1>
+<DataErrorsChannel2>6</DataErrorsChannel2>
+<DataErrorsChannel3>0</DataErrorsChannel3>
+<VoltageChannel1>4.69</VoltageChannel1>
+<VoltageChannel2>4.71</VoltageChannel2>
+<VoltageChannel3>4.74</VoltageChannel3>
+<VoltagePower>4.94</VoltagePower>
+<DeviceName>Plug&amp;Track_v2-Enet</DeviceName>
+<HostName>PLUGANDTRACK</HostName>
+<MACAddress>00:1E:C0:EA:0C:34</MACAddress>
+<DateTime>2002-01-01 08:10:55</DateTime>
+<owd_DS18B20 Description="Programmable resolution thermometer">
+<Name>DS18B20</Name>
+<Family>28</Family>
+<ROMId>33000006DBB22E28</ROMId>
+<Health>7</Health>
+<Channel>2</Channel>
+<RawData>AA014B467FFF061084FF0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</RawData>
+<PrimaryValue>26.6250 Deg C</PrimaryValue>
+<Temperature Units="Centigrade">26.6250</Temperature>
+<UserByte1 Writable="True">75</UserByte1>
+<UserByte2 Writable="True">70</UserByte2>
+<Resolution>12</Resolution>
+<PowerSource>255</PowerSource>
+</owd_DS18B20>
+</Devices-Detail-Response>
